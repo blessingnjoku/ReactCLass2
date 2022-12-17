@@ -1,0 +1,28 @@
+{
+  "persons": [
+    {
+      "id": 2,
+      "name": "Toba",
+      "age": "40",
+      "state": "Lagos",
+      "hobbies": "looking for trouble",
+      "occupation": "Smiling"
+    },
+    {
+      "id": 4,
+      "name": "Ejike",
+      "age": "30",
+      "state": "Enugu",
+      "hobbies": "gAME",
+      "occupation": "looking "
+    },
+    {
+      "name": "Precious",
+      "age": "30",
+      "state": "Anambra",
+      "hobbies": "looking for trouble",
+      "occupation": "Chewing gum",
+      "id": 5
+    }
+  ]
+}
